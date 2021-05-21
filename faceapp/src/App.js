@@ -1,5 +1,4 @@
 import './App.css';
-import tachyons from 'tachyons';
 import Navigation from './components/Navigation/Navigation';
 import Logo from './components/logo/logo';
 import ImageLinkForm from './components/ImageLinkForm/ImagelinkForm';

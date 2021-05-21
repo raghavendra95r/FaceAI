@@ -14,3 +14,17 @@
  right: 0;
  z-index: -1;
 }
+.font{
+  font-family: 'Kalam', cursive;
+}
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('./SEGA.woff') format('woff');
+  }
+  h1{
+    font-family: 'SEGA LOGO FONT';
+    font-size: 500;
+    color:#7daceb;
+  }
