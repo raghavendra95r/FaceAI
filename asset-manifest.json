@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FaceAI/static/css/main.89cd3885.chunk.css",
+    "main.js": "/FaceAI/static/js/main.88bc4c27.chunk.js",
+    "main.js.map": "/FaceAI/static/js/main.88bc4c27.chunk.js.map",
+    "runtime-main.js": "/FaceAI/static/js/runtime-main.e2249503.js",
+    "runtime-main.js.map": "/FaceAI/static/js/runtime-main.e2249503.js.map",
+    "static/js/2.5b8bdd6e.chunk.js": "/FaceAI/static/js/2.5b8bdd6e.chunk.js",
+    "static/js/2.5b8bdd6e.chunk.js.map": "/FaceAI/static/js/2.5b8bdd6e.chunk.js.map",
+    "static/js/3.96cb2115.chunk.js": "/FaceAI/static/js/3.96cb2115.chunk.js",
+    "static/js/3.96cb2115.chunk.js.map": "/FaceAI/static/js/3.96cb2115.chunk.js.map",
+    "index.html": "/FaceAI/index.html",
+    "static/css/main.89cd3885.chunk.css.map": "/FaceAI/static/css/main.89cd3885.chunk.css.map",
+    "static/js/2.5b8bdd6e.chunk.js.LICENSE.txt": "/FaceAI/static/js/2.5b8bdd6e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FaceAI/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2249503.js",
+    "static/js/2.5b8bdd6e.chunk.js",
+    "static/css/main.89cd3885.chunk.css",
+    "static/js/main.88bc4c27.chunk.js"
+  ]
+}
